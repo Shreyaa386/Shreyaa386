@@ -63,12 +63,6 @@ I'm a passionate Full Stack Developer who enjoys building modern web application
 * System Design
 * Scalable Backend Architecture
 
----
-
-## Contact
-
-* **Email:** <a href="mailto:shreyam484@gmail.com">[shreyam484@gmail.com](mailto:shreyam484@gmail.com)</a>
-* **Portfolio:** <a href="https://shreyacodes.vercel.app/" target="_blank">shreyacodes.vercel.app</a>
 
 ---
 
